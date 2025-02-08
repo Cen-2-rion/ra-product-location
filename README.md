@@ -1,3 +1,7 @@
+# Домашнее задание к занятию "2.2. Расположение товаров"
+
+## Ссылка на Github Pages
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
